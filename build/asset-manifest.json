@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2f93121.css",
+    "main.js": "/static/js/main.c266cd29.js",
+    "static/js/592.6d7de513.chunk.js": "/static/js/592.6d7de513.chunk.js",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/static/media/home-main.1ad51edfc1d6349e10bd7f43f89bfebb.svg",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/static/media/Soumyajit_Behera-BIT_MESRA.b67bc39ea73918d153fd.pdf",
+    "static/media/about.svg": "/static/media/about.8942e187f0a0a2cfe2ebeaa88b3cf08c.svg",
+    "static/media/avatar.svg": "/static/media/avatar.af022a29e7660aa7a1a45a9be728394b.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.d2f93121.css.map": "/static/css/main.d2f93121.css.map",
+    "main.c266cd29.js.map": "/static/js/main.c266cd29.js.map",
+    "592.6d7de513.chunk.js.map": "/static/js/592.6d7de513.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2f93121.css",
+    "static/js/main.c266cd29.js"
+  ]
+}
