@@ -2,9 +2,13 @@ import { ProjectProps } from './types';
 
 const Project = ({ icon, title, description, url }: ProjectProps) => {
   return (
-    <div className="flex flex-col shadow-xl h-max p-8 items-center rounded-lg border r md:w-1/3">
-      <div className="w-24 h-24 mr-2 border-4 rounded-full border-black  ">
-        <img src={icon} alt="Project Icon" className="w-full h-full" />
+    <div className="flex flex-col mr-4 shadow-xl h-max p-8 gap-6 items-center rounded-lg border r md:w-1/3">
+      <div className="w-24 h-24 mr-2 rounded-full   ">
+        <img
+          src={icon}
+          alt="Project Icon"
+          className="w-24 h-24 object-contain"
+        />
       </div>
       <div className="bg-white  rounded-md p-4 h-max">
         <div className="flex items-center mb-4">

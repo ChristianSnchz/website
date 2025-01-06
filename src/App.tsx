@@ -202,11 +202,19 @@ const App = () => {
             projects={[
               {
                 id: `${Math.random()}`,
-                title: 'Rolleet',
+                title: 'Nawara',
                 description:
-                  'Rolleet es una innovadora aplicación diseñada específicamente para entusiastas de automotores, empresas relacionadas con la industria automotriz y aficionados a la publicidad especializada. Esta plataforma única reúne lo mejor de dos mundos: eventos de automotores y la promoción de servicios asociados a vehículos, todo ello en un entorno digital interactivo.',
-                icon: '/rolleet.png',
-                url: 'https://rolleet.app/',
+                  'En Nawara, nos dedicamos a transformar la manera en que exploras y disfrutas de Venezuela. Nuestra aplicación, diseñada para aventureros y amantes de los viajes, te brinda la oportunidad de sumergirte en la riqueza natural y cultural de Venezuela de una manera personalizada y emocionante.',
+                icon: 'https://www.nawara.app/logo-nawara-pico.png',
+                url: 'https://www.nawara.app/',
+              },
+              {
+                id: `${Math.random()}`,
+                title: 'Covans',
+                description:
+                  'Es una plataforma en la cual un proveedor de servicios e indumentaria de snowboard en Ushuaia puede exponer su tarifario cotizacion y enviar una bookeo',
+                icon: 'https://www.covans.com.ar/images/logo.png',
+                url: 'https://www.covans.com.ar/',
               },
             ]}
           />
