@@ -1,0 +1,139 @@
+{
+  "name": "Christian",
+  "lastname": "Sanchez",
+  "email": "christsnchz@gmail.com",
+  "profession": "Software Developer",
+  "description": "Full-stack developer specializing in React, React Native, and backend development with Node.js and NestJS. Passionate about delivering clean, user-friendly, and efficient applications.",
+  "location": "Buenos Aires, Argentina",
+  "image": "/avatar.jpg",
+  "social": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/christian-s-09419114a/"
+    },
+    {
+      "name": "Portfolio",
+      "url": "https://christiansanchez.online/"
+    }
+  ],
+  "history": [
+    {
+      "company": "UGLYCASH",
+      "key": "uglycash",
+      "position": "Software Developer",      
+      "description": "Developed the Uglycash application using React Native, focusing on financial flows, card integration, UI consistency, multilingual support, and backend collaboration.",
+      "responsabilities": [
+        "Implemented and maintained fiat money inflow and outflow ramps",
+        "Developed flows for card integration (Tribe, Treasury Prime)",
+        "Collaborated on a Design System for UI scalability",
+        "Built 'request money' and 'send money' flows, payment links, and deep linking",
+        "Managed feature flags and animations with Reanimated",
+        "Implemented internationalization (i18n) for multi-language support",
+        "Created cashback program and activity tracking features",
+        "Contributed to backend refactor and created mock APIs"
+      ],
+      "startDate": "2023-09-01",
+      "endDate": "current"
+    },
+    {
+      "company": "Reserve",
+      "key": "reserve",
+      "position": "Software Developer",
+      "description": "Migrated mobile app from JS to TS, implemented crypto flows, rebranding changes, and stablecoin ramps. Worked on UI and investment features.",
+      "responsabilities": [
+        "Migrated entire React Native app from JavaScript to TypeScript",
+        "Integrated Fireblocks for crypto (BTC, ETH) transactions",
+        "Created investment section and managed fiat ramps",
+        "Participated in rebranding and Tribe card integration",
+        "Focused on front-end UI design and flow optimization"
+      ],
+      "startDate": "2022-06-01",
+      "endDate": "2023-12-01"
+    },
+    {
+      "company": "Buenbit",
+      "key": "buenbit",
+      "position": "Software Developer",
+      "description": "Worked on React Native app with Expo, implemented fiat ramps, cashback programs and optimized transactional UX.",
+      "responsabilities": [
+        "Implemented new features and refactored code in React Native (Expo)",
+        "Managed incoming and outgoing fiat money flows",
+        "Developed card functionality including cashback",
+        "Focused on intuitive interface design and secure transactions"
+      ],
+      "startDate": "2021-11-01",
+      "endDate": "2022-06-01"
+    },
+    {
+      "company": "Santander Tecnología",
+      "key": "santander",
+      "position": "FullStack Developer",
+      "description": "Worked on micro frontends and full-stack applications using Angular, React, .NET Core, and Oracle DB.",
+      "responsabilities": [
+        "Developed micro frontends for internal corporate portal",
+        "Built applications with Angular, React, .NET Core, Oracle",
+        "Improved internal reporting and liquidation tools",
+        "Ensured code coverage and software maintainability"
+      ],
+      "startDate": "2020-02-01",
+      "endDate": "2021-11-01"
+    },
+    {
+      "company": "Axoft",
+      "key": "axoft",
+      "position": "Software Developer",
+      "description": "Worked on Tango POS system using .NET Framework, REST APIs and desktop integrations.",
+      "responsabilities": [
+        "Developed Tango POS desktop system using .NET Framework, WPF, MVVM",
+        "Created REST services for integration with web systems",
+        "Used Visual Studio, SQL Server, TFS and TortoiseGit"
+      ],
+      "startDate": "2018-09-01",
+      "endDate": "2020-02-01"
+    }    
+  ],
+  "skills": [
+    "JavaScript",
+    "React",
+    "React Native",
+    "Node.js",
+    "NestJS",
+    "TypeScript",
+    "Docker",
+    "GraphQL",
+    "Python"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Professional Working"
+    }
+  ],
+  "certifications": [
+    "Solidity",
+    "Data Structures",
+    "Angular 10+",
+    "Serverless AWS",
+    "Docker"
+  ],
+  "education": [
+    {
+      "institution": "UADE",
+      "degree": "Ingeniería de sistemas",
+      "startYear": 2020,
+      "endYear": 2023
+    },
+    {
+      "institution": "Universidad de los Andes (VE)",
+      "degree": "Ingeniería de sistemas",
+      "startYear": 2014,
+      "endYear": 2018
+    },
+    {
+      "institution": "CEVAM",
+      "degree": "Ingles Avanzado Integrado",
+      "startYear": 2013,
+      "endYear": 2014
+    }
+  ]
+}
